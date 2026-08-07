@@ -1,19 +1,3 @@
-// public class Sample {
-//     // static int x=10;
-//     public static void main(String[] args) {
-//         System.out.println("hello world");
-//     } 
-
-    
-// }
-
-
-// class Sample2{
-//     void display() {
-//         Sample.x=20;
-//         System.out.println("this is Sample 2 class");
-//     }
-// }
 
 
 public class Sample {
